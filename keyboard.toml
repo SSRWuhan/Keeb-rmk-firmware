@@ -40,7 +40,6 @@ Tab     Q           W            E            R            T           Y        
 caps    A           S            D            F            G           H            J            K           L           scln        quot        del         ent                 
 LShift  Z           X            C            V            B           N            M            ,           .           /           RShift      F14         F15                 Up 
 LCtrl   LGui        LAlt         Space                     Space                    Space                    RAlt        MO(1)       RCtrl       F16         F17        Left     Down     Right
-OSL(1)  LT(2, Kc9)  LM(1, LShift | LGui)
 """
 
 [[keymap.layer]] # layer 1
