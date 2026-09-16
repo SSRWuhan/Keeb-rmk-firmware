@@ -44,10 +44,13 @@ LCtrl   LGui        LAlt         Space                     Space                
 
 [[keymap.layer]] # layer 1
 keys = """
-_  pscr  TG(2)  briu   brid
-_  _      _
-_  _      _
-_  _      _
+_  pscr  TG(2)  briu   brid  _  _  _  _  _  _  _  _  _  _  _
+_  _  _  _  _  _  _  _  _  _  _  _  _  _  _  _
+_  _  _  _  _  _  _  _  _  _  _  _  _  _  _  _
+_  _  _  _  _  _  _  _  _  _  _  _  _  _
+_  _  _  _  _  _  _  _  _  _  _  _  _  _  _
+_  _  _  _  _  _  _  _  _  _  _  _  _  _  _  _  _
+
 """
 
 
